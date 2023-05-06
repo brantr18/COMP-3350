@@ -1,2 +1,2 @@
 # COMP-3350
-Projects I make in my Assembly Language Programming.
+Projects I made in my Assembly Language Programming.
