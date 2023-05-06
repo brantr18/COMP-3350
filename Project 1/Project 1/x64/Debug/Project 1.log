@@ -1,0 +1,9 @@
+﻿  Assembling Project 1.asm...
+Project 1.asm(3): error A2008: syntax error : .
+Project 1.asm(4): error A2008: syntax error : .
+Project 1.asm(5): error A2008: syntax error : .
+Project 1.asm(6): error A2008: syntax error : ,
+Project 1.asm(17): error A2008: syntax error : invoke
+Project 1.asm(19): error A2008: syntax error : main
+Project 1.asm(19): error A2088: END directive required at end of file
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"x64\Debug\Project 1.obj" /W3 /errorReport:prompt  /Ta"Project 1.asm"" exited with code 1.
